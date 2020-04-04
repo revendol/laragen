@@ -25,8 +25,8 @@ Please make sure to update tests as appropriate.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-##Find me on upWork
+## Find me on upWork
 [Radoan Hossan](https://www.upwork.com/o/profiles/users/~01f31be6e769b953e4/)
 
-##Find me on Linkedin
+## Find me on Linkedin
 [Radoan Hossan](https://www.linkedin.com/in/revendol/)
