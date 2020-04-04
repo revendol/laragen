@@ -1,7 +1,7 @@
 {
     "name": "radoan/laragen",
     "description": "This will create crud files and code for laravel",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
