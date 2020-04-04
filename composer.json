@@ -1,0 +1,19 @@
+{
+    "name": "radoan/laragen",
+    "description": "This will create crud files and code for laravel",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Radoan Hossain",
+            "email": "radoanhossaiinpream@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Radoan\\Laragen\\": "src/"
+        }
+    }
+}
