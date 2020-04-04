@@ -7,17 +7,14 @@ LaraGen is a PHP Laravel library for dealing with CRUD operation and necessary f
 Use composer to install the laragen.
 
 ```bash
-pip install foobar
+composer require radoan/laragen
 ```
 
-## Usage
+## Service Provider
+Add service provider in your config/app.php
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+```php
+Radoan\Laragen\LaragenServiceProvider::class,
 ```
 
 ## Contributing
