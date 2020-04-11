@@ -269,7 +269,7 @@ $txt .='
         <div class="row">
             <div class="col-md-12">
                 <h1>Here is your Index View</h1>
-                <a href="{{route(\''.$route.'.index\')}}" class="btn btn-success" style="margin-top: 15px;margin-bottom: 15px;">All Bank</a>
+                <a href="{{route(\''.$route.'.index\')}}" class="btn btn-success" style="margin-top: 15px;margin-bottom: 15px;">List</a>
             </div>
             <div class="col-md-12">
                 <table class="table table-striped">
